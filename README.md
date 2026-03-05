@@ -1,3 +1,3 @@
-# Cookie Academy 
+# Cookie Academia
 
-Bienvenue a Cookie Academy
+Bienvenue a Cookie Academia
